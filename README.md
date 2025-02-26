@@ -1,4 +1,5 @@
 Website Converter
+
 Proyek ini adalah sebuah alat Python untuk mengonversi sebuah website ke berbagai format dokumen seperti PDF, DOCX, dan PPTX. Proyek ini menggunakan Selenium dengan undetected_chromedriver untuk mengakses website, serta mengintegrasikan layanan anti-captcha untuk menangani CAPTCHA (misalnya reCAPTCHA). Untuk konversi DOCX dan PPTX, proyek ini mengekstrak konten HTML dan mengubahnya menjadi teks.
 
 Fitur
